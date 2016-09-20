@@ -6,6 +6,8 @@
 
 如果你使用了这套程序，最好回报测试结果增强测试准确度(不回报也无所谓)
 
+回报测试结果的话，请将你的`results`文件夹提交为pull request
+
 # System Requirement
 
 POSIX兼容
