@@ -1,0 +1,7 @@
+A 0
+BVI 0
+NX 11
+LV 23
+FS 24
+OY 54
+LR 80
