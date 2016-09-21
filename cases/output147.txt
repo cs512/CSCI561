@@ -1,5 +1,5 @@
 A 0
-HV 7
-HQ 12
-FS 15
-FG 23
+IZ 31
+BT 37
+D 40
+FG 66
