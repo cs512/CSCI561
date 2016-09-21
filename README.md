@@ -12,3 +12,6 @@
 
 POSIX兼容
 
+# 感谢
+
+测试85到164由 [tenohiranokubomini](mailto:hectorilles@gmail.com) 提供
